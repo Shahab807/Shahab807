@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Shahab Rizwan  
+## 👋 Hey, I’m Noor Shahab
 
 🎨 I’m a **Graphic Designer, Video Editor & Shopify Developer**  
 👀 I’m passionate about **creative visuals, eCommerce, and digital branding**  
