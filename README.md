@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Shahab807
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hey, I’m Shahab Rizwan  
+
+🎨 I’m a **Graphic Designer, Video Editor & Shopify Developer**  
+👀 I’m passionate about **creative visuals, eCommerce, and digital branding**  
+🌱 Currently learning **advanced Shopify customization & Meta Ads strategy**  
+💼 Founder of **Clothwise**, a modern clothing brand  
+💬 Let’s collaborate on **brand design, store setup, or ad creatives**  
+📫 Reach me at: [Instagram](https://instagram.com/clothwise) | [Website](https://clothwise.shop)  
+⚡ Fun fact: I can turn any simple idea into a viral visual.
+
 
 <!---
 Shahab807/Shahab807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
